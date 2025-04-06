@@ -34,7 +34,7 @@ nav ul li{
 
 /**************/
 
-@media (max-width: 1200px){
+@media (max-width: 1300px){
   .logo{
     width: 120px;
   }
@@ -43,7 +43,7 @@ nav ul li{
   }
 
 }
-@media(max-width :1000px){
+@media(max-width :1200px){
   nav{
     padding: 12px 0;
   }
