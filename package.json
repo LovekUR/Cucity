@@ -2,6 +2,8 @@
   "name": "clear",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://lovekur.github.io/Cucity",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
