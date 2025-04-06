@@ -43,7 +43,7 @@ nav ul li{
   }
 
 }
-@media(max-width :900px){
+@media(max-width :1000px){
   nav{
     padding: 12px 0;
   }
